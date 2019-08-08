@@ -1,0 +1,10 @@
+Android本地的微型服务器
+包括Ijetty、NanoHttpd和AndroidAsync，AndServer
+具体github 地址：
+https://github.com/yanzhenjie/AndServer
+https://github.com/NanoHttpd/nanohttpd
+https://github.com/koush/AndroidAsync
+参考网址：
+https://juejin.im/entry/598b374351882548646c5744
+
+========================================================
